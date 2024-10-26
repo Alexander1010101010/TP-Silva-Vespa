@@ -52,26 +52,18 @@ footer {
     bottom: 0;
     width: 100%;
 }
-
-
-
-
-
-
-/* Estilos generales */
 body {
     background-color: #121212;
     color: white;
     font-family: Arial, sans-serif;
 }
 
-/* Estilos del logo circular */
 .logo-circular {
     border-radius: 50%;
     margin-right: 10px;
 }
 
-/* Estilos de la barra de navegación */
+
 .navbar-brand {
     font-size: 1.5rem;
     font-weight: bold;
@@ -88,7 +80,7 @@ body {
     color: #1DB954;
 }
 
-/* Estilos del carrusel */
+
 .carousel-item img {
     height: 500px;
     object-fit: cover;
@@ -116,7 +108,7 @@ body {
     color: #b3b3b3;
 }
 
-/* Estilos del formulario de contacto */
+
 .form-label {
     color: #b3b3b3;
 }
@@ -144,7 +136,7 @@ body {
     border-color: #1ed760;
 }
 
-/* Estilos del footer */
+
 footer {
     position: fixed;
     bottom: 0;
@@ -155,7 +147,6 @@ footer {
     padding: 10px;
 }
 
-/* Estilos del contenedor principal */
 .container {
     margin-top: 50px;
 }
@@ -166,26 +157,24 @@ h1 {
     text-align: center;
 }
 
-/* Estilos de los botones en general */
 button, .btn {
     border-radius: 25px;
 }
 /* codigos para la pagina de artistas */
 
-/* Estilos generales para el sitio */
+
 body {
     background-color: #121212;
     color: white;
     font-family: Arial, sans-serif;
 }
 
-/* Estilos del logo circular */
+
 .logo-circular {
     border-radius: 50%;
     margin-right: 10px;
 }
 
-/* Estilos del menú de navegación */
 .navbar-brand {
     font-size: 1.5rem;
     font-weight: bold;
@@ -202,7 +191,7 @@ body {
     color: #1DB954;
 }
 
-/* Sección de Artistas */
+/* Codigos de Artistas */
 .artist-card {
     background-color: #181818;
     padding: 20px;
@@ -236,12 +225,11 @@ body {
     color: #b3b3b3;
 }
 
-/* Transiciones en las imágenes */
 .artist-card:hover .artist-img {
     opacity: 0.8;
 }
 
-/* Estilos del footer */
+
 footer {
     background-color: #181818;
     color: #b3b3b3;
@@ -249,7 +237,7 @@ footer {
     padding: 10px;
 }
 
-/* Título principal */
+
 h1 {
     color: #1DB954;
     margin-bottom: 30px;
@@ -264,13 +252,12 @@ body {
     font-family: Arial, sans-serif;
 }
 
-/* Logo circular */
+
 .logo-circular {
     border-radius: 50%;
     margin-right: 10px;
 }
 
-/* Menú de navegación */
 .navbar-brand {
     font-size: 1.5rem;
     font-weight: bold;
@@ -287,7 +274,6 @@ body {
     color: #1DB954;
 }
 
-/* Sección de Playlists */
 .playlist-card {
     background-color: #181818;
     padding: 20px;
@@ -321,12 +307,12 @@ body {
     color: #b3b3b3;
 }
 
-/* Efecto de opacidad en imágenes */
+
 .playlist-card:hover .playlist-img {
     opacity: 0.8;
 }
 
-/* Footer */
+
 footer {
     background-color: #181818;
     color: #b3b3b3;
@@ -334,7 +320,7 @@ footer {
     padding: 10px;
 }
 
-/* Título principal */
+
 h1 {
     color: #1DB954;
     margin-bottom: 30px;
